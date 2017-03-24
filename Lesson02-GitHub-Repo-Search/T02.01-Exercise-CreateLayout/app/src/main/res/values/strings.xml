@@ -15,4 +15,7 @@
   -->
 <resources>
     <string name="app_name">Github Query</string>
+    <string name="type_the_repository">type the repository</string>
+    <string name="url_of_the_repository">URL of the repository</string>
+    <string name="make_a_search">make a search</string>
 </resources>
